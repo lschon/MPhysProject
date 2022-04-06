@@ -1,9 +1,14 @@
 # MPhysProject
 Title: MPhys Project - Understanding the Local Expansion Rate of the Universe
+
 Author: Lucas Schön
+
 Dates: September 2021 to April 2022
+
 Institution: University of Edinburgh
+
 Supervisors: Dr. Yan-Chuan Cai and Prof. Jorge Peñarrubia
+
 Contact e-mail: lucas.mgs.schon@gmail.com
 
 This MPhys project investigates the local expansion rate of the Universe using Millennium Simulation (2005) data and Virgo cluster data from Kim et al. (2020)
