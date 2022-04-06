@@ -1,3 +1,5 @@
+NOTE: THE PARTICLES DATAFILE ParticleData_Point1Percent.txt IS TOO LARGE TO UPLOAD HERE. CONTACT FOR ACCESS.
+
 This contains the raw data for the dark matter particles and halos from the Millennium Simulation. Note Millenium_Data is missing an "n", but this is hard-coded so I left it. 
 
 The original README is as follows:
